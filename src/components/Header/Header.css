@@ -1,0 +1,22 @@
+.logo{
+    margin-top: 20px;
+}
+.logo img{
+    width: 150px;
+}
+nav{
+    margin-top: 10px;
+    background-color: black;
+    padding: 15px 0px;
+}
+nav a{
+    color: white;
+    padding: 0px 10px;
+    text-decoration: none;
+    font-size: 16px;
+}
+nav a:hover{
+    background-color: lightgray;
+    padding: 15px 10px;
+    color: black;
+}
